@@ -1,0 +1,21 @@
+.row{
+    padding: 50px;
+    background-color: #ACFC94;
+    border-radius: 50px;
+}
+.contenedor{
+    width: auto;
+}
+.parte2{
+    margin-left: 75%;
+    top: -500px;
+    
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align:justify;
+}
+.img-proyecto{
+    box-shadow: 10px 10px 30px #121412;
+    margin-right: 75%;
+}
